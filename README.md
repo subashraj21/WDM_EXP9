@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-04-13 at 13 20 09_9e18ff04](https://github.com/subashraj21/WDM_EXP9/assets/143729815/703915b1-201b-4b32-8770-d87e1b2c37fb)### EX9 Preprocessing on Twitter Data using Rapidminer
+### EX9 Preprocessing on Twitter Data using Rapidminer
 ### DATE: 13/04/2023
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
